@@ -1,0 +1,3 @@
+/home/lmc/Desktop/c_src/chap19/ex19_9/build/CMakeFiles/ex19_9.dir
+/home/lmc/Desktop/c_src/chap19/ex19_9/build/CMakeFiles/edit_cache.dir
+/home/lmc/Desktop/c_src/chap19/ex19_9/build/CMakeFiles/rebuild_cache.dir
